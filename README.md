@@ -1,2 +1,2 @@
 # CifrasCriptografadasV2
-Este Projeto é uma página web que realiza a criptografia de decriptografia de qualquer texto 
+O proposito deste projeto é cirar 3 paginas web que realizam a criptografia de decriptografia de qualquer texto inserido pelo usuário.
